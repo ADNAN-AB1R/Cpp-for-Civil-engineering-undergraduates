@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1765382580 source:d:\c++ for civil engineers\codes\lec03\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
