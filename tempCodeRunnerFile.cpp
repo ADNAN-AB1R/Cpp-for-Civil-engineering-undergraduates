@@ -1,0 +1,1 @@
+ cout << "Toal bill is " << unit * 10 << "tk";
